@@ -3,3 +3,9 @@ vps:
 HWID: BD6EE38A-E4E3-4F78-A7E4-40BBB92A1582
 MAC: e6:d7:92:87:35:a2
 Usuário: Administrator
+
+
+teste:
+HWID: 73AA9AFC-736F-40C8-8C29-9ABCF3AF466B
+MAC: 9d:80:63:12:13:77
+Usuário: Administrator
