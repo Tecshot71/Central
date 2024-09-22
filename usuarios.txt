@@ -9,3 +9,9 @@ teste:
 HWID: 73AA9AFC-736F-40C8-8C29-9ABCF3AF466B
 MAC: 9d:80:63:12:13:77
 Usuário: Administrator
+
+
+Ellionai - 22/10/2024
+HWID: 676207BB-8C58-4C0B-8B20-69C7218E5192
+MAC: 8e:9f:7d:26:79:cf
+Usuário: Administrator
