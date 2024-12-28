@@ -15,3 +15,8 @@ Ellionai - 22/10/2024
 HWID: 676207BB-8C58-4C0B-8B20-69C7218E5192
 MAC: cf:84:f3:e8:91:b7
 Usuário: Administrator
+
+Azure:
+HWID: 47471991-0387-4FDB-9A42-F7C302020B11
+MAC: 60:45:bd:38:91:0e
+Usuário: Tecshot
