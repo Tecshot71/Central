@@ -4,8 +4,8 @@ MAC: 02:3c:c6:e2:a5:27
 Usuário: Administrator
 
 aws:
-HWID: EC2CE3C7-533C-9B66-A01C-1C4186D90D1C
-MAC: 02:87:b3:cc:88:1f
+HWID: EC27D422-D647-603A-8778-960098CD7952
+MAC: 0a:1e:85:8b:d7:4f
 Usuário: Administrator
 
 
