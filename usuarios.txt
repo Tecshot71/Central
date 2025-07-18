@@ -1,4 +1,9 @@
 teste:
+
+HWID: EC214B03-12BA-58E7-C423-D3EC69FCD7C7
+MAC: 02:c3:5c:b9:9d:5b
+Usuário: Administrator
+
 HWID: EC2BAE78-3FD8-AC11-ACDB-B7C01E71A7CB
 MAC: 02:3c:c6:e2:a5:27
 Usuário: Administrator
