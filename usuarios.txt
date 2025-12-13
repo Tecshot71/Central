@@ -17,3 +17,8 @@ vps xab
 HWID: 90BBC3BF-1FBE-40C5-A0E7-FC354A0286B5
 MAC: de:f8:f3:1e:58:b7
 Usuário: Administrator
+
+cliente
+HWID: B1A017CC-B658-4990-8B4A-6007B94E6BE6
+MAC: b5:c8:d4:76:f2:65
+Usuário: Administrator
