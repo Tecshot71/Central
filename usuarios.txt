@@ -24,6 +24,6 @@ MAC: b5:c8:d4:76:f2:65
 Usuário: Administrator
 
 cliente 1:
-HWID: 735514c746b9803d5fbb6e31c4da78d19579034a9ed663da098b6ed4b0f22a49
-MAC: 98:bd:80:0b:7f:bf
-Usuário: computador
+HWID: 01561eaa4048893edb27214feeee4fff04addf1e5d30c7b26389d4e0e405e9a0
+MAC: b1:cf:93:bf:19:1e
+Usuário: josue
