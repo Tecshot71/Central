@@ -31,4 +31,4 @@ Usuário: josue
 cliente 2:
 HWID: C7C53942-0F41-DB3F-703F-CC1907E6CECF
 MAC: 00:15:dc:ae:02:db
-Usuário: CS
+Usuário: Administrador
