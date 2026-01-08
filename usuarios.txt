@@ -27,3 +27,8 @@ cliente 1:
 HWID: 01561eaa4048893edb27214feeee4fff04addf1e5d30c7b26389d4e0e405e9a0
 MAC: b1:cf:93:bf:19:1e
 Usuário: josue
+
+cliente 2:
+HWID: C7C53942-0F41-DB3F-703F-CC1907E6CECF
+MAC: 00:15:dc:ae:02:db
+Usuário: CS
