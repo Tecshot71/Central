@@ -32,3 +32,8 @@ cliente 2:
 HWID: C7C53942-0F41-DB3F-703F-CC1907E6CECF
 MAC: 00:15:dc:ae:02:db
 Usuário: Administrador
+
+BOY1:
+HWID: BDCAEA83-3E9F-4C2F-A10A-83AC0C8858C9
+MAC: 92:67:8d:0f:86:43
+Usuário: Administrator
