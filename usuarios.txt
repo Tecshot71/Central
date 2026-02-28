@@ -17,38 +17,3 @@ vps xab
 HWID: 90BBC3BF-1FBE-40C5-A0E7-FC354A0286B5
 MAC: de:f8:f3:1e:58:b7
 Usuário: Administrator
-
-cliente
-HWID: B1A017CC-B658-4990-8B4A-6007B94E6BE6
-MAC: b5:c8:d4:76:f2:65
-Usuário: Administrator
-
-cliente 1:
-HWID: 01561eaa4048893edb27214feeee4fff04addf1e5d30c7b26389d4e0e405e9a0
-MAC: b1:cf:93:bf:19:1e
-Usuário: josue
-
-cliente 2:
-HWID: C7C53942-0F41-DB3F-703F-CC1907E6CECF
-MAC: 00:15:dc:ae:02:db
-Usuário: Administrador
-
-BOY1:
-HWID: BDCAEA83-3E9F-4C2F-A10A-83AC0C8858C9
-MAC: 92:67:8d:0f:86:43
-Usuário: Administrator
-
-GUETO190.102.42.98:
-HWID: 40666CB5-7654-438A-B63D-F738783479C2
-MAC: c3:9d:34:24:e8:b0
-Usuário: Administrator
-
-GUETO89.213.41.116:
-HWID: 007B3942-1064-430E-6525-E0F6BF604002
-MAC: 00:ea:6e:c0:f1:46
-Usuário: Administrador
-
-GUETO191.101.131.175:
-HWID: F61CE298-9037-4CB4-AE6F-C1A27F8C3C05
-MAC: f2:ec:a7:49:5d:01
-Usuário: Administrator
